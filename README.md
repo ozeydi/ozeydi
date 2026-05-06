@@ -12,6 +12,7 @@
                                                
 👋 Hi, I'm Oussama Zeydi
 💻 Senior Full-Stack Engineer | React • Next.js • Node.js
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Oussama%20Zeydi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -22,7 +23,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Distributed%20Web%20Systems-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Distributed%20Systems-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Level-Senior%20Engineer-black?style=for-the-badge"/>
 </p>
 
@@ -30,185 +31,220 @@
 
 # 🧠 Engineering Profile
 
-Senior Full-Stack Engineer specializing in **large-scale frontend systems**, **distributed web architecture**, and **performance-critical applications**.
+Senior Full-Stack Engineer with **7+ years of experience** building and scaling **production-grade web applications**.
 
-I build systems that prioritize:
-- ⚡ Performance under real-world load  
-- 🏗️ Scalable and maintainable architecture  
-- 🧩 Clean modular design  
-- 🚀 Long-term product velocity  
+Specialized in:
+- ⚡ High-performance frontend systems (React / Next.js)
+- 🏗️ Scalable backend architectures (Node.js)
+- 🔄 Legacy system modernization
+- 📡 Real-time and API-driven systems
+
+I operate across the full stack — from **architecture design → production delivery** — with a strong focus on **performance, maintainability, and system reliability**.
 
 ---
 
-# 🧠 System Design Highlights (FAANG-Level Focus)
+# 🧠 System Design Highlights
 
 ## 🏗️ Frontend Architecture
-- Migrated monolithic UI → modular React + Next.js architecture  
-- Implemented feature-based scalable folder structure  
-- Enforced reusable component systems across teams  
+- Migrated legacy monoliths → modular React architectures  
+- Implemented scalable feature-based structure  
+- Built reusable component systems (design consistency at scale)
 
-## ⚡ Rendering & Performance Strategy
-- SSR / SSG / ISR hybrid rendering architecture  
-- Optimized Core Web Vitals (LCP, TTFB, CLS)  
-- Reduced frontend rendering bottlenecks at scale  
+## ⚡ Rendering & Performance
+- SSR / SSG / ISR strategies with Next.js  
+- Optimized Core Web Vitals (LCP, TTFB)  
+- Reduced frontend bottlenecks in large applications  
 
 ## 📡 Real-Time Systems
-- Designed WebSocket-based real-time architecture  
-- Optimized Node.js concurrency for high throughput  
-- Achieved low-latency UI synchronization under load  
+- Designed WebSocket-based architectures  
+- Optimized Node.js concurrency handling  
+- Delivered low-latency real-time UI updates  
 
-## 🔄 Legacy Modernization Strategy
-- Incremental migration using strangler pattern  
-- Reduced risk during enterprise system rewrites  
-- Maintained production stability during transitions  
+## 🔄 Legacy Modernization
+- Incremental migration (strangler pattern)  
+- Reduced rewrite risk in production systems  
+- Maintained business continuity during transitions  
 
-## 🧩 API & Backend Design
-- Designed scalable REST APIs with clean separation layers  
-- Improved payload efficiency and response cycles  
-- Structured backend for horizontal scalability  
+## 🧩 Backend & API Design
+- Designed REST APIs and real-time services  
+- Built scalable Node.js backend layers  
+- Improved response efficiency and system throughput  
 
 ---
 
 # 📌 Currently Working On
 
-> Active engineering work from my GitHub repositories
+- 🚧 Active full-stack projects on GitHub (React / Next.js / Node.js)  
+- ⚡ Performance optimization (rendering strategies, caching)  
+- 🧱 Reusable architecture patterns & system design templates  
+- 🧪 Strengthening test coverage (unit + integration)  
+- 📦 CI/CD and Docker-based workflows  
 
-- 🚧 Maintaining and evolving production-level full-stack projects  
-- 🧱 Improving React / Next.js architecture patterns  
-- ⚡ Performance optimization (SSR, caching, rendering strategies)  
-- 🧪 Expanding test coverage and CI/CD automation  
-- 📦 Building reusable system components and architecture templates  
-
-📂 My GitHub repositories reflect ongoing engineering focus and experimentation.
+👉 Check pinned repositories for live work.
 
 ---
 
 # 🧬 Impact Metrics Dashboard
 
-## ⚡ Performance Impact
-- ↓ 40–60% reduction in page load times (SSR/SSG optimization)  
-- ↓ ~35% API latency reduction via backend optimization  
-- ↑ Significant improvement in Core Web Vitals  
+## ⚡ Performance
+- ↓ 40–60% frontend load time (SSR/SSG optimization)  
+- ↓ ~35% backend/API latency  
+- ↑ Core Web Vitals performance  
 
 ## 🧱 Engineering Efficiency
-- ↓ ~30% reduction in production bugs via architecture standardization  
-- ↑ Faster feature delivery through modular frontend design  
-- ↑ Improved onboarding speed with clean system structure  
+- ↓ ~30% production bugs  
+- ↑ faster feature delivery  
+- ↑ improved developer onboarding  
 
-## 🚀 System Reliability
-- ↑ Higher stability under concurrent real-time load  
-- ↓ Deployment issues via Dockerized environments  
-- ↑ CI/CD pipeline consistency and reliability  
+## 🚀 Reliability
+- ↑ system stability under load  
+- ↓ deployment/environment issues (Docker)  
+- ↑ CI/CD consistency  
 
 ## 👨‍🏫 Team Impact
-- Mentored developers on scalable frontend architecture  
-- Defined reusable engineering standards across teams  
-- Improved cross-team collaboration efficiency  
+- Mentored developers (React & architecture best practices)  
+- Led code reviews & engineering standards  
+- Improved cross-team collaboration  
+
+---
+
+
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,webpack" />
+</p>
+
+- React, Next.js (SSR / SSG / ISR)  
+- TypeScript / JavaScript  
+- Redux, MobX  
+- Tailwind CSS, Styled Components  
+
+---
+
+## ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+- Node.js, Express, NestJS  
+- REST APIs, WebSocket  
+- JWT, authentication systems  
+- Microservices architecture  
+
+---
+
+## 🗄️ Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+- PostgreSQL  
+- MongoDB  
+
+---
+
+## ☁️ DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel" />
+</p>
+
+- Docker, Kubernetes  
+- AWS, Vercel  
+- CI/CD (GitLab pipelines)  
+
+---
+
+## 🧪 Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+- Jest, Mocha, Supertest  
+- Unit & integration testing  
 
 ---
 
 # 💼 Experience
 
-## 🏢 Streamwide
-- Migrated legacy applications to React SPA + Next.js  
-- Introduced SSR/SSG architecture for performance + SEO  
-- Designed scalable frontend systems  
-- Mentored engineers and enforced engineering standards  
+## 🏢 Streamwide (2021 — 2026)
+**Senior Full-Stack Engineer (React / Node.js)**
 
-## 🏢 Volkswagen AG
-- Built internal enterprise applications  
+- Modernized legacy applications into React SPA  
+- Introduced Next.js SSR/SSG for performance & SEO  
+- Designed scalable frontend architecture  
+- Built and optimized Node.js APIs  
+- Implemented real-time features (WebSocket)  
+- Mentored developers & enforced best practices  
+- Collaborated with product, QA, and UX teams  
+
+---
+
+## 🏢 Volkswagen AG (2019 — 2021)
+**Frontend Engineer**
+
+- Developed enterprise internal applications  
+- Improved performance and stability  
+- Refactored legacy frontend code  
+- Participated in Agile workflows & code reviews  
+
+---
+
+## 🏢 Sagemcom (2019 — 2021)
+**Full-Stack Engineer**
+
+- Built and refactored CMS platform  
+- Developed React frontend + Node.js APIs  
+- Managed Docker environments and deployments  
 - Improved system performance and maintainability  
-- Worked in large-scale enterprise environment  
-
-## 🏢 Sagemcom
-- Developed full-stack CMS platform  
-- Built Docker-based deployment pipelines  
-- Improved system reliability and delivery workflows  
 
 ---
 
-# 🚀 Selected Engineering Projects
+## 🏢 Armada Delivery (2017 — 2018)
+**Full-Stack Engineer**
 
-## ⚡ Legacy Platform Modernization — Streamwide
-- Rebuilt monolithic frontend into modular React architecture  
-- Introduced SSR/SSG optimization layer  
-- Standardized reusable component system  
-
-**Impact**
-- ↓ 40–60% load time improvement  
-- ↓ ~30% production bugs  
-- ↑ Delivery speed across teams  
+- Built delivery platform (React + Node.js)  
+- Designed public REST APIs  
+- Implemented unit & integration testing  
+- Wrote technical documentation  
+- Enabled third-party integrations  
 
 ---
 
-## 📡 Real-Time Data Platform — Streamwide
-- WebSocket-based real-time architecture  
-- Node.js performance tuning for concurrency  
-- Backend scalability improvements  
+## 🏢 Pricemoov (2018)
+**React Developer**
 
-**Impact**
-- ↓ ~35% API latency  
-- ↑ real-time synchronization quality  
-- ↑ system stability under load  
-
----
-
-## 📶 CMS Platform — Sagemcom
-- Full-stack rebuild (React + Node.js)  
-- Docker CI/CD pipeline integration  
-- Backend + frontend refactoring  
-
-**Impact**
-- ↑ 50% deployment speed  
-- ↓ environment issues  
-- ↑ reliability and maintainability  
-
----
-
-## 🚗 Enterprise Tooling — Volkswagen AG
-- Frontend optimization and refactoring  
-- Legacy system stabilization  
-- UI performance improvements  
-
-**Impact**
-- ↑ UI responsiveness  
-- ↓ recurring bugs  
-- ↑ developer experience  
+- Developed dynamic frontend application  
+- Built pricing logic and analytics UI  
+- Improved UX/UI through collaboration  
 
 ---
 
 # 🧩 Engineering Principles
 
 - 🏗️ Systems over features  
-- ⚡ Performance is a core feature  
+- ⚡ Performance is a feature  
 - 🧠 Simplicity scales better than complexity  
-- 📦 Modular design > monoliths  
-- 🤝 Collaboration amplifies engineering output  
+- 📦 Modular architecture wins long-term  
+- 🤝 Collaboration amplifies impact  
 
----
 
-# 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,nestjs,redux,tailwind,postgres,mongodb,docker,aws,vercel,jest" />
-</p>
-
----
 
 # 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/oussamazeydi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/ozeydi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# ⚡ Engineering Philosophy
+# ⚡ Philosophy
 
 > “Great systems are not built by adding features — they are built by removing complexity.”
 
