@@ -10,9 +10,6 @@
 </pre>
                                                
                                                
-👋 Hi, I'm Oussama Zeydi
-💻 Senior Full-Stack Engineer | React • Next.js • Node.js
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Oussama%20Zeydi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -31,6 +28,8 @@
 
 # 🧠 Engineering Profile
 
+---
+
 Senior Full-Stack Engineer with **7+ years of experience** building and scaling **production-grade web applications**.
 
 Specialized in:
@@ -44,6 +43,8 @@ I operate across the full stack — from **architecture design → production de
 ---
 
 # 🧠 System Design Highlights
+
+---
 
 ## 🏗️ Frontend Architecture
 - Migrated legacy monoliths → modular React architectures  
@@ -73,6 +74,8 @@ I operate across the full stack — from **architecture design → production de
 ---
 
 # 📌 Currently Working On
+
+---
 
 - 🚧 Active full-stack projects on GitHub (React / Next.js / Node.js)  
 - ⚡ Performance optimization (rendering strategies, caching)  
@@ -108,8 +111,9 @@ I operate across the full stack — from **architecture design → production de
 
 ---
 
-
 # 🛠️ Tech Stack
+
+---
 
 ## 🎨 Frontend
 <p align="center">
@@ -167,6 +171,8 @@ I operate across the full stack — from **architecture design → production de
 ---
 
 # 💼 Experience
+
+---
 
 ## 🏢 Streamwide (2021 — 2026)
 **Senior Full-Stack Engineer (React / Node.js)**
@@ -229,9 +235,79 @@ I operate across the full stack — from **architecture design → production de
 - 📦 Modular architecture wins long-term  
 - 🤝 Collaboration amplifies impact  
 
+---
 
+# 🚀 Featured Projects
+
+---
+
+## 🤖 Wardrobe AI — Smart Outfit Recommendation Platform
+> AI-powered wardrobe assistant for managing clothing and generating outfit suggestions
+
+🔗 **Live Demo:** https://react-node-ward-robe-ai.vercel.app/  
+📦 **Repository:** https://github.com/ozeydi/React-Node-wardRobeAi  
+
+![Preview](https://via.placeholder.com/900x450?text=Wardrobe+AI+Preview)
+
+### 🧠 Overview
+- Full-stack application for digital wardrobe management  
+- Enables users to organize clothing items and generate outfit combinations  
+- Designed to simplify daily outfit decision-making  
+
+### 🏗️ Engineering Highlights
+- Built end-to-end architecture (React + Node.js + Express)  
+- Designed modular and scalable frontend structure  
+- Implemented REST APIs for wardrobe and outfit management  
+- Integrated AI-based recommendation logic  
+- Structured application for maintainability and scalability  
+
+### ⚡ Impact
+- 🚀 End-to-end full-stack system (frontend → backend → AI integration)  
+- 🧠 Automated outfit recommendations using AI logic  
+- ⚡ Responsive UI with optimized API interactions  
+- 📦 Production-ready deployment with live access  
+
+### 🛠️ Tech Stack
+React, Node.js, Express, MongoDB, AI APIs, Vercel
+
+---
+
+## 💬 ChatBot MVP — Conversational Web Application
+> Full-stack chatbot interface with scalable backend and dynamic messaging flow
+
+🔗 **Live Demo:** [Add if available]  
+📦 **Repository:** https://github.com/ozeydi/ChatBot-MVP-react-node  
+
+![Preview](https://via.placeholder.com/900x450?text=ChatBot+Preview)
+
+
+### 🧠 Overview
+- Full-stack chatbot application for user interaction and message exchange  
+- Designed as a foundation for conversational systems (MVP architecture)  
+- Supports dynamic UI updates and message handling  
+
+### 🏗️ Engineering Highlights
+- Built full-stack architecture (React + Node.js + Express)  
+- Designed REST API for message handling and conversation flow  
+- Implemented client-side state management for chat interactions  
+- Structured backend for scalability and future real-time extension  
+- Developed responsive and interactive chat UI  
+
+### ⚡ Impact
+- 💬 Functional conversational system with Pdynamic UI updates  
+- 🧠 Clean foundation for extending into real-time architecture  
+- 🚀 Demonstrates scalable full-stack design patterns  
+- 📦 Production-ready structure for rapid iteration  
+
+
+### 🛠️ Tech Stack
+React, Node.js, Express, MongoDB
+
+---
 
 # 📫 Connect
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oussamazeydi/">
@@ -245,6 +321,8 @@ I operate across the full stack — from **architecture design → production de
 ---
 
 # ⚡ Philosophy
+
+---
 
 > “Great systems are not built by adding features — they are built by removing complexity.”
 
