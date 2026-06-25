@@ -305,6 +305,22 @@ React, Node.js, Express, MongoDB
 
 ---
 
+### [PRscribe](https://github.com/ozeydi/prscribe)
+> AI-powered GitHub Action that auto-generates pull request descriptions from your diff.
+
+- Supports OpenAI, Anthropic, Google Gemini, and Mistral
+- Configurable update modes: replace, append, prepend, or comment
+- Generates PR titles, filters noisy files, skips existing descriptions
+- 27 tests · MIT license
+
+[![Marketplace](https://img.shields.io/badge/GitHub_Marketplace-PRscribe-purple?logo=github)](https://github.com/marketplace/actions/prscribe)
+
+The badge only resolves correctly once the action is published to the Marketplace. Until then you can use a plain repo badge:
+
+[![GitHub](https://img.shields.io/badge/GitHub-prscribe-blue?logo=github)](https://github.com/ozeydi/prscribe)
+
+---
+
 # 📫 Connect
 
 ---
